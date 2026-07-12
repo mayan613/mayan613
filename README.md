@@ -4,8 +4,6 @@
 
 [![moe-counter]][home]
 
-<img src="https://api.lorem.space/image/face?w=300&h=300" width="280" />
-
 <br>
 
 # 🌸 欢迎来到 Galeros 的二次元空间 🌸
@@ -86,21 +84,25 @@ github: mayan613
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mayan613/mayan613/output/github-contribution-grid-snake.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayan613/mayan613/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayan613/mayan613/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mayan613/mayan613/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-# 🌸 今日随机二次元图片
+# 🌸 我的二次元卡片
 
 <div align="center">
 
-<img src="https://www.thiswaifudoesnotexist.net/example-300x300.jpg" width="300">
+<img src="./assets/anime-card.png" width="500">
 
 <br>
 
-> "每一次刷新，都遇见新的角色 ✨"
+> "每一次刷新，都是新的状态 ✨"
 
 </div>
 
