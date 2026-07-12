@@ -32,17 +32,17 @@ IMAGES = [
 FONT_PATH = "assets/fonts/SmileySans-Oblique.ttf"        # 中文字体，必需
 EMOJI_FONT_PATH = "assets/fonts/NotoColorEmoji.ttf"       # emoji 字体，可选
 
-FONT_TITLE_SIZE = 34
-FONT_BODY_SIZE = 24
+FONT_TITLE_SIZE = 44
+FONT_BODY_SIZE = 30
 EMOJI_SIZE = 109
 # 注意：Noto Color Emoji 经典位图版（CBDT格式）是固定尺寸字体，
 # 必须用它内置的原生尺寸 109 才能正确渲染，改成别的数值会导致
 # 加载/绘制失败（新版矢量彩色字体 COLRv1 虽然支持任意尺寸，
 # 但目前 Pillow 渲染这种格式是空白的，不要用）。
 
-CARD_HEIGHT = 500
-IMAGE_SIZE = 500          # 左侧正方形图的边长
-TEXT_WIDTH = 700          # 右侧文字区域宽度
+CARD_HEIGHT = 650
+IMAGE_SIZE = 650          # 左侧正方形图的边长
+TEXT_WIDTH = 900          # 右侧文字区域宽度
 CARD_WIDTH = IMAGE_SIZE + TEXT_WIDTH
 
 BG_COLOR = (255, 245, 250)       # 右侧背景色（浅粉）
