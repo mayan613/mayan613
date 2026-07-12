@@ -29,6 +29,7 @@ jobs:
 
       - name: Generate Card
         run: |
+          pip install pillow
           python generate.py
 
 
