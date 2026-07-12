@@ -98,7 +98,7 @@ github: mayan613
 
 <div align="center">
 
-<img src="./assets/anime-card.png" width="500">
+<img src="./assets/anime-card.png">
 
 <br>
 
