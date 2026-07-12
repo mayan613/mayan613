@@ -143,7 +143,7 @@ github: mayan613
 <!-- Links -->
 
 [home]: https://github.com/mayan613
-[header]: https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=180&text=Galeos's%20Profile&fontSize=50&fontAlignY=35
+[header]: https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=180&text=Galeros's%20Profile&fontSize=50&fontAlignY=35
 [moe-counter]: https://count.getloli.com/get/@mayan613?theme=rule34
 [stats]: https://github-stats-extended.vercel.app/api?username=mayan613&locale=cn&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true
 [language]: https://github-stats-extended.vercel.app/api/top-langs?username=mayan613&locale=cn&layout=compact&theme=transparent&hide_border=true&card_width=470
